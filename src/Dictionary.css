@@ -1,8 +1,14 @@
+.Dictonary h1 {
+    font-size: 18px;
+    font-weight: bold;
+margin-bottom: 20px;
+}
+
 .Dictionary section {
-  background-color: #fed1ef;
+  background-color:#C8E3D4;
   padding: 30px;
   border-radius: 6px;
-  box-shadow: 0 10px, 10px, rgb(0 0 0 / 10%);
+  box-shadow: 0 10px, 20px, rgb(0 0 0 / 10%);
   margin: 20px 0;
 }
 
