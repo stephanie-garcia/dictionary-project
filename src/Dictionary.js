@@ -51,7 +51,7 @@ export default function Dictionary(props) {
               onChange={handleKeywordChange}
               defaultValue={props.defaultKeyword}
             />
-            <input type="submit" />
+            <input type="submit" className="button" />
           </form>
           <div className="hint">suggested words: sunset, palm, moon....</div>
         </section>

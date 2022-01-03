@@ -1,11 +1,11 @@
-.Dictonary h1 {
-    font-size: 18px;
-    font-weight: bold;
-margin-bottom: 20px;
+.Dictionary h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
 }
 
 .Dictionary section {
-  background-color:#C8E3D4;
+  background-color: #c8e3d4;
   padding: 30px;
   border-radius: 6px;
   box-shadow: 0 10px, 20px, rgb(0 0 0 / 10%);
@@ -21,4 +21,10 @@ margin-bottom: 20px;
 .Dictionary hint {
   font-size: 11px;
   margin-top: 5px;
+}
+
+.Dictionary .button {
+  background: #87aaaa;
+  border-radius: 4px;
+  color: white;
 }
